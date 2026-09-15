@@ -1,0 +1,111 @@
+group,id,name,hex
+Whites,1,Snow White,#f1e9cd
+Whites,2,Reddish White,#f2e7cf
+Whites,3,Purplish White,#ece6d0
+Whites,4,Yellowish White,#f2eacc
+Whites,5,Orange coloured White,#f3e9ca
+Whites,6,Greenish White,#f2ebcd
+Whites,7,Skimmed milk White,#e6e1c9
+Whites,8,Greyish White,#e2ddc6
+Greys,9,Ash Grey,#cbc8b7
+Greys,10,Smoke Grey,#bfbbb0
+Greys,11,French Grey,#bebeb3
+Greys,12,Pearl Grey,#b7b5ac
+Greys,13,Yellowish Grey,#bab191
+Greys,14,Bluish Grey,#9c9d9a
+Greys,15,Greenish Grey,#8a8d84
+Greys,16,Blackish Grey,#5b5c61
+Blacks,17,Greyish Black,#555152
+Blacks,18,Bluish Black,#413f44
+Blacks,19,Greenish Black,#454445
+Blacks,20,Pitch or Brownish Black,#423937
+Blacks,21,Reddish Black,#433635
+Blacks,22,Ink Black,#252024
+Blacks,23,Velvet Black,#241f20
+Blues,24,Scotch Blue,#281f3f
+Blues,25,Prussian Blue,#1c1949
+Blues,26,Indigo Blue,#4f638d
+Blues,27,China Blue,#383867
+Blues,28,Azure Blue,#5c6b8f
+Blues,29,Ultramarine Blue,#657abb
+Blues,30,Flax-Flower Blue,#6f88af
+Blues,31,Berlin Blue,#7994b5
+Blues,32,Verditter Blue,#6fb5a8
+Blues,33,Greenish Blue,#719ba2
+Blues,34,Greyish Blue,#8aa1a6
+Purples,35,Bluish Lilac Purple,#d0d5d3
+Purples,36,Bluish Purple,#8590ae
+Purples,37,Violet Purple,#3a2f52
+Purples,38,Pansy Purple,#39334a
+Purples,39,Campanula Purple,#6c6d94
+Purples,40,Imperial Purple,#584c77
+Purples,41,Auricula Purple,#533552
+Purples,42,Plum Purple,#463759
+Purples,43,Red Lilac Purple,#bfbac0
+Purples,44,Lavender Purple,#77747f
+Purples,45,Pale Blackish Purple,#4a475c
+Greens,46,Celadine Green,#b8bfaf
+Greens,47,Mountain Green,#b2b599
+Greens,48,Leek Green,#979c84
+Greens,49,Blackish Green,#5d6161
+Greens,50,Verdigris Green,#61ac86
+Greens,51,Bluish Green,#a4b6a7
+Greens,52,Apple Green,#adba98
+Greens,53,Emerald Green,#93b778
+Greens,54,Grass Green,#7d8c55
+Greens,55,Duck Green,#33431e
+Greens,56,Sap Green,#7c8635
+Greens,57,Pistachio Green,#8e9849
+Greens,58,Asparagus Green,#c2c190
+Greens,59,Olive Green,#67765b
+Greens,60,Oil Green,#ab924b
+Greens,61,Siskin Green,#c8c76f
+Yellows,62,Sulphur Yellow,#ccc050
+Yellows,63,Primrose Yellow,#ebdd99
+Yellows,64,Wax Yellow,#ab9649
+Yellows,65,Lemon Yellow,#dbc364
+Yellows,66,Gamboge Yellow,#e6d058
+Yellows,67,Kings Yellow,#ead665
+Yellows,68,Saffron Yellow,#d09b2c
+Yellows,69,Gallstone Yellow,#a36629
+Yellows,70,Honey Yellow,#a77d35
+Yellows,71,Straw Yellow,#f0d696
+Yellows,72,Wine Yellow,#d7c485
+Yellows,73,Sienna Yellow,#f1d28c
+Yellows,74,Ochre Yellow,#efcc83
+Yellows,75,Cream Yellow,#f3daa7
+Oranges,76,Dutch Orange,#dfa837
+Oranges,77,Buff Orange,#ebbc71
+Oranges,78,Orpiment Orange,#d17c3f
+Oranges,79,Brownish Orange,#92462f
+Oranges,80,Reddish Orange,#be7249
+Oranges,81,Deep Reddish Orange,#bb603c
+Reds,82,Tile Red,#c76b4a
+Reds,83,Hyacinth Red,#a75536
+Reds,84,Scarlet Red,#b63e36
+Reds,85,Vermilion Red,#b5493a
+Reds,86,Aurora Red,#cd6d57
+Reds,87,Arterial Blood Red,#711518
+Reds,88,Flesh Red,#e9c49d
+Reds,89,Rose Red,#eedac3
+Reds,90,Peach Blossom Red,#eecfbf
+Reds,91,Carmine Red,#ce536b
+Reds,92,Lake Red,#b74a70
+Reds,93,Crimson Red,#b7757c
+Reds,94,Purplish Red,#612741
+Reds,95,Cochineal Red,#7a4848
+Reds,96,Veinous Blood Red,#3f3033
+Reds,97,Brownish Purple Red,#8d746f
+Reds,98,Chocolate Red,#4d3635
+Reds,99,Brownish Red,#6e3b31
+Browns,100,Deep Orange-coloured Brown,#864735
+Browns,101,Deep Reddish Brown,#553d3a
+Browns,102,Umber Brown,#613936
+Browns,103,Chestnut Brown,#7a4b3a
+Browns,104,Yellowish Brown,#946943
+Browns,105,Wood Brown,#c39e6d
+Browns,106,Liver Brown,#513e32
+Browns,107,Hair Brown,#8b7859
+Browns,108,Broccoli Brown,#9b856b
+Browns,109,Clove Brown,#766051
+Browns,110,Blackish Brown,#453b32
