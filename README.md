@@ -13,13 +13,6 @@ cd python
 python -m pip install -e .
 ```
 
-For tests and optional DataFrame output:
-
-```bash
-python -m pip install -e ".[dev]"
-pytest
-```
-
 ## Basic use
 
 ```python
