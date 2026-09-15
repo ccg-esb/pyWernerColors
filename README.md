@@ -81,8 +81,3 @@ implementation.
 wc.plot_werner_strip("Rocks")
 ```
 
-## Data
-
-The package bundles the 110 Werner colours as a CSV file and the named palettes
-as JSON. These are loaded with `importlib.resources`, so `.rda` files and
-`pyreadr` are not runtime dependencies.
